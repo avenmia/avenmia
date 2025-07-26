@@ -1,5 +1,13 @@
-## Hi there 👋
+## Hi there I"m Mike 👋
 
+**Full‑stack .NET & React engineer | Civic-tech volunteer | Based in Hawaiʻi (HST)**  
+
+### 🚀 Featured Work
+| Project | What it does | Tech | Link |
+|---|---|---|---|
+| Hawaiʻi Economic Recovery & Resilience ("HIERR") Survey Tool | Survey tool to better understand public opinion on how Hawaii's economy can be more equitable and resilient | React, TypeScript, Next, Prisma, tRPC, Pol.is, SQL Server| [Repo](https://github.com/CodeWithAloha/HIERR) |
+| Hawaiʻi Zoning Atlas | Interactive map showing how outdated zoning laws make it hard to build diverse affordable housing in Hawaii. |  JavaScript, Leaflet, Python, Jupyter Notebooks | [Repo](https://github.com/CodeWithAloha/Hawaii-Zoning-Atlas)
+| Aloha Birds AR Game | Pokémon Go–style AR app for local bird conservation | Unity, C#, Niantic Lightship | [Repo](https://github.com/avenmia/AlohaBirdsGame)|
 <!--
 **avenmia/avenmia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
